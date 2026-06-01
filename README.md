@@ -48,12 +48,6 @@ Passionate about AI/ML, deep learning, and building production-ready application
 - **[Pharma-Ops Agent](https://github.com/Himanshuwagh/Pharma-Ops-Agent)** - AI-powered meeting prep for Pharma Sales Reps (Google Cloud Rapid Agent Hackathon)
 - **[Monday BI Agent](https://github.com/Himanshuwagh/monday-bi-agent)** - Business intelligence agent for Monday.com integration
 
-### Other Projects
-
-- **[Portfolio](https://github.com/Himanshuwagh/portfolio)** - Personal portfolio website
-- **[GPT from Scratch](https://github.com/Himanshuwagh/gpt-oss-from-scratch)** - Educational implementation of GPT architecture
-- **[PageIndex](https://github.com/Himanshuwagh/PageIndex)** - Document indexing for vectorless, reasoning-based RAG
-
 ## 📊 What I'm Working On
 
 - 🤖 Building multi-agent systems and agentic workflows
