@@ -17,6 +17,21 @@ Passionate about AI/ML, deep learning, and building production-ready application
 
 ## 🚀 Featured Projects
 
+
+### AI Agents & Automation
+
+- **[OutPilot](https://github.com/Himanshuwagh/OutPilot)** - Automated pipeline that scrapes AI/ML hiring and funding posts from X.com, LinkedIn, and news sites, finds contacts, drafts personalized cold emails, and sends them on autopilot
+- **[Pharma-Ops Agent](https://github.com/Himanshuwagh/Pharma-Ops-Agent)** - AI-powered meeting prep for Pharma Sales Reps (Google Cloud Rapid Agent Hackathon)
+- **[Monday BI Agent](https://github.com/Himanshuwagh/monday-bi-agent)** - Business intelligence agent for Monday.com integration
+
+## 📊 What I'm Working On
+
+- 🤖 Building multi-agent systems and agentic workflows
+- 🧠 Deep learning model architectures and optimization
+- 🚀 Production ML deployment and scaling
+- 💬 Large Language Models and prompt engineering
+- 🔍 Computer vision and image processing applications
+
 ### Machine Learning & AI
 
 - **[CycleGAN: Monet Style Image Generator](https://github.com/Himanshuwagh/CycleGAN-Convert-into-monet-style-images)** - Generates 7,000-10,000 Monet-style images from regular photos using generative adversarial networks
@@ -41,20 +56,6 @@ Passionate about AI/ML, deep learning, and building production-ready application
 - **[Research Paper to Blog Converter](https://github.com/Himanshuwagh/Research-Paper-To-Blog)** - Flask application that converts research papers (PDF) into detailed blog posts using GPT-4
 - **[ML FastAPI Application](https://github.com/Himanshuwagh/ml-fast-api)** - Production-ready machine learning APIs built with FastAPI
 - **[FastAPI Deployment](https://github.com/Himanshuwagh/Fast-api-deploy)** - Deployment strategies for FastAPI applications
-
-### AI Agents & Automation
-
-- **[OutPilot](https://github.com/Himanshuwagh/OutPilot)** - Automated pipeline that scrapes AI/ML hiring and funding posts from X.com, LinkedIn, and news sites, finds contacts, drafts personalized cold emails, and sends them on autopilot
-- **[Pharma-Ops Agent](https://github.com/Himanshuwagh/Pharma-Ops-Agent)** - AI-powered meeting prep for Pharma Sales Reps (Google Cloud Rapid Agent Hackathon)
-- **[Monday BI Agent](https://github.com/Himanshuwagh/monday-bi-agent)** - Business intelligence agent for Monday.com integration
-
-## 📊 What I'm Working On
-
-- 🤖 Building multi-agent systems and agentic workflows
-- 🧠 Deep learning model architectures and optimization
-- 🚀 Production ML deployment and scaling
-- 💬 Large Language Models and prompt engineering
-- 🔍 Computer vision and image processing applications
 
 ## 🔗 Connect With Me
 
