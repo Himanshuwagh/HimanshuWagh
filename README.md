@@ -56,10 +56,6 @@ Passionate about AI/ML, deep learning, and building production-ready application
 - 💬 Large Language Models and prompt engineering
 - 🔍 Computer vision and image processing applications
 
-## 📈 GitHub Stats
-
-Check out my repositories above to see more of my work!
-
 ## 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Himanshuwagh)
